@@ -8,5 +8,5 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 # Add all OCP projects here
 # As you add more projects, just add more lines
 add_subdirectory(ProductFilter)
-# add_subdirectory(FutureProject1)
+add_subdirectory(Journal-SRP-OCP)
 # add_subdirectory(FutureProject2)
