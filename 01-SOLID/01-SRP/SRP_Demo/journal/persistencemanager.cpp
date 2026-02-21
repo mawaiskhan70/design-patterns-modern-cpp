@@ -1,7 +1,6 @@
 #include "persistencemanager.h"
 #include <fstream>
 #include <iostream>
-PersistenceManager::PersistenceManager() {}
 
 void PersistenceManager::save(const Journal &j, const std::string &filename)
 {
