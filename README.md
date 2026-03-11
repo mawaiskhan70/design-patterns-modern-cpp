@@ -2,6 +2,7 @@
 Design Patterns in Modern C++ — Notes, implementations, and examples  from Dmitri Nesteruk's Udemy course. Covers SOLID principles,  creational, structural, and behavioral patterns with real-world code.
 # 🎯 Design Patterns in Modern C++
 
+
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Udemy](https://img.shields.io/badge/Udemy-Course-purple.svg)](https://www.udemy.com/course/patterns-cplusplus/)
