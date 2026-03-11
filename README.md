@@ -21,7 +21,7 @@ modern C++ standards (C++17) with real-world examples.
 
 | # | Principle | Status | Description |
 |---|-----------|--------|-------------|
-| 1 | [Single Responsibility (SRP)](./01-SOLID/01-SRP/) | ✅ Done | Each class should have only one reason to change |
+| 1 | [Single Responsibility (SRP)](./01-SOLID/01-SRP/) | ✅ Done | Each class should have only one reason to change  |
 | 2 | [Open/Closed (OCP)](./01-SOLID/02-OCP/) | ✅ Done | Open for extension, closed for modification |
 | 3 | [Liskov Substitution (LSP)](./01-SOLID/03-LSP/) | 🔄 In Progress | Subtypes must be substitutable for base types |
 | 4 | [Interface Segregation (ISP)](./01-SOLID/04-ISP/) | ⬚ Pending | Many specific interfaces over one general |
