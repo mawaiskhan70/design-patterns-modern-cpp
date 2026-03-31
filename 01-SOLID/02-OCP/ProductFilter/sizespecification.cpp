@@ -1,7 +1,7 @@
 #include "sizespecification.h"
 
 
-SizeSpecification::SizeSpecification(Size size)
+SizeSpecification::SizeSpecification(Size size) :size(size)
 {
 
 }
