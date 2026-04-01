@@ -39,3 +39,18 @@
 
 # debug information files
 *.dwo
+
+
+# Build directories (anywhere in repo)
+build/
+cmake-build-*/
+
+# Qt Creator user files
+CMakeLists.txt.user
+*.autosave
+
+# Output data files
+*.txt
+!CMakeLists.txt
+!README.md
+!EXPLANATION.md
